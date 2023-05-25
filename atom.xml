@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hi-wilson.github.io</id>
+    <title>Wilson博客</title>
+    <updated>2023-05-25T23:51:17.604Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hi-wilson.github.io"/>
+    <link rel="self" href="https://hi-wilson.github.io/atom.xml"/>
+    <subtitle>一个来自浙江的小学生</subtitle>
+    <logo>https://hi-wilson.github.io/images/avatar.png</logo>
+    <icon>https://hi-wilson.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Wilson博客</rights>
+    <entry>
+        <title type="html"><![CDATA[中秋快乐]]></title>
+        <id>https://hi-wilson.github.io/post/20220911-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220911-1/">
+        </link>
+        <updated>2022-09-11T13:33:05.000Z</updated>
+        <content type="html"><![CDATA[<p>大家好，这是一个迟到的问候，应为昨天github429了，所以无法同步，在这里，我祝大家中秋快乐！！！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gridea的simple主题如何添加友链？]]></title>
+        <id>https://hi-wilson.github.io/post/20220901-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220901-1/">
+        </link>
+        <updated>2022-09-01T12:07:59.000Z</updated>
+        <content type="html"><![CDATA[<p>博客网站里面还没写好呀！<br>
+去看我的知乎吧！<br>
+链接：https://zhuanlan.zhihu.com/p/560313642?<br>
+<a href="https://zhuanlan.zhihu.com/p/560313642?" target="_blank">点我跳转知乎</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilson博客文章订阅功能开放啦！]]></title>
+        <id>https://hi-wilson.github.io/post/20220824-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220824-1/">
+        </link>
+        <updated>2022-08-24T00:55:24.000Z</updated>
+        <content type="html"><![CDATA[<p>Wilson博客文章订阅开放了，你可以通过网址<a href="https://wenjuan.feishu.cn/m?t=sJEgbfseDfFi-8q6k" target="_blank">https://wenjuan.feishu.cn/m?t=sJEgbfseDfFi-8q6k</a>填写你的邮箱进行订阅，也可以点击 <a href="https://wenjuan.feishu.cn/m?t=sJEgbfseDfFi-8q6k" target="_blank">这里</a>进行订阅哦！订阅后无需打开网站，有新文章直接发到你邮箱哦！</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的朋友们]]></title>
+        <id>https://hi-wilson.github.io/post/my-friends/</id>
+        <link href="https://hi-wilson.github.io/post/my-friends/">
+        </link>
+        <updated>2022-08-23T07:56:50.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://www.tutime.cn" target="_blank">土土博客</a><br>
+<a href="https://dahi.icu" target="_blank">大海Dahi的部落格</a></p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完成萌国ICP备案啦！]]></title>
+        <id>https://hi-wilson.github.io/post/20220823-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220823-1/">
+        </link>
+        <updated>2022-08-23T07:03:41.000Z</updated>
+        <content type="html"><![CDATA[<p><a href="https://icp.gov.moe/?keyword=20221616" target="_blank">萌ICP备20221616号</a><br>
+备案号：萌ICP备20221616号<br>
+详询网站底下的备案号按钮或者点击<a href="https://icp.gov.moe/?keyword=20221616" target="_blank">这里</a>查看</p>
+<figure data-type="image" tabindex="1"><img src="https://hi-wilson.github.io/post-images/1661238859223.png" alt="" loading="lazy"></figure>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilson博客终于上线啦]]></title>
+        <id>https://hi-wilson.github.io/post/20220822-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220822-1/">
+        </link>
+        <updated>2022-08-22T09:33:18.000Z</updated>
+        <content type="html"><![CDATA[<p>Wilson博客上线了</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的班主任]]></title>
+        <id>https://hi-wilson.github.io/post/44440404-1/</id>
+        <link href="https://hi-wilson.github.io/post/44440404-1/">
+        </link>
+        <updated>0606-06-05T22:11:49.000Z</updated>
+        <content type="html"><![CDATA[<p>班主任大家应该都有，你们的班主任应该很好吧，我今天来给大家讲讲我的班主任吧！<br>
+我的班主任是英语老师，他是一个女的，我对她的印象不是很好。<br>
+她是从三年级开始教我们PEP版英语的。一开始，她对我很好，可是从四年级开始，却不分青红皂白污蔑我。有一次，一个同学与我发生矛盾，诽谤我说我去校长室，和校长说让他转学，可是我明明没有说，我努力辩解着，可是我的班主任是这样说的：“×××家长，不用管他，他就是这样的人。”最后去校长室校长帮我作证以后，班主任才罢休，可是明明是她污蔑我啊，为什么不能给我道个歉呢？？？她是老师，就不应该以身作则吗？？？给学生道歉就这么难吗？？？就算很没面子，那你说我的时候考虑过我会不会很没面子吗？？？不愿在班上道歉，私下就不能道个歉吗？？？<br>
+还有一次，我是管包干区的，我拿了一个垃圾钳下去，然后另一个做包干区的同学过来，把垃圾钳抢了去，还恶人先告状，和班主任说我抢了他们的钳子，班主任一直不听我的解释，就一口咬定是我的错，无论我怎么解释，她都是一口咬定我的错，最后是数学老师来安慰我的。<br>
+这篇博客就写到这里吧！我要睡觉了。</p>
+]]></content>
+    </entry>
+</feed>
