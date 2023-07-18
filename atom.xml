@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://hi-wilson.github.io</id>
+    <title>Wilson博客</title>
+    <updated>2023-07-18T14:53:58.160Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://hi-wilson.github.io"/>
+    <link rel="self" href="https://hi-wilson.github.io/atom.xml"/>
+    <subtitle>一个来自浙江的小学生</subtitle>
+    <logo>https://hi-wilson.github.io/images/avatar.png</logo>
+    <icon>https://hi-wilson.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2023, Wilson博客</rights>
+    <entry>
+        <title type="html"><![CDATA[中秋快乐]]></title>
+        <id>https://hi-wilson.github.io/post/20220911-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220911-1/">
+        </link>
+        <updated>2022-09-11T13:33:05.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gridea的simple主题如何添加友链？]]></title>
+        <id>https://hi-wilson.github.io/post/20220901-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220901-1/">
+        </link>
+        <updated>2022-09-01T12:07:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilson博客文章订阅功能开放啦！]]></title>
+        <id>https://hi-wilson.github.io/post/20220824-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220824-1/">
+        </link>
+        <updated>2022-08-24T00:55:24.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的朋友们]]></title>
+        <id>https://hi-wilson.github.io/post/my-friends/</id>
+        <link href="https://hi-wilson.github.io/post/my-friends/">
+        </link>
+        <updated>2022-08-23T07:56:50.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[完成萌国ICP备案啦！]]></title>
+        <id>https://hi-wilson.github.io/post/20220823-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220823-1/">
+        </link>
+        <updated>2022-08-23T07:03:41.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wilson博客终于上线啦]]></title>
+        <id>https://hi-wilson.github.io/post/20220822-1/</id>
+        <link href="https://hi-wilson.github.io/post/20220822-1/">
+        </link>
+        <updated>2022-08-22T09:33:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[我的班主任]]></title>
+        <id>https://hi-wilson.github.io/post/44440404-1/</id>
+        <link href="https://hi-wilson.github.io/post/44440404-1/">
+        </link>
+        <updated>0606-06-05T22:11:49.000Z</updated>
+    </entry>
+</feed>
